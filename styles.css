@@ -1,9 +1,18 @@
 body {
         font-family: 'Consolas', 'Courier New', Courier, monospace;
         display: flex;
-        justify-content: center;
+        flex-direction: column;
+        justify-content: flex-start;
         align-items: center;
         height: 100vh;
+        margin: 0;
         background-color: #f7f7f7;
         color: #c91717;
       }
+
+#map { 
+    height: 400px; 
+    width: 90%;
+    max-width: 800px;
+    border: 2px solid #c91717; /* just for DEBUG */
+}
