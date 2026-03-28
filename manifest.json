@@ -1,0 +1,14 @@
+{
+  "name": "sabam - interactive map",
+  "short_name": "sabam",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#f7f7f7",
+  "theme_color": "#f7f7f7"
+}
